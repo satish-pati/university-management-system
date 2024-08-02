@@ -27,11 +27,6 @@ public class About extends JFrame {
         name.setFont(new Font("Tahoma", Font.BOLD, 30));
         add(name);
         
-        JLabel rollno = new JLabel("Roll number: CS23B038");
-        rollno.setBounds(70, 320, 550, 40);
-        rollno.setFont(new Font("Tahoma", Font.PLAIN, 30));
-        add(rollno);
-        
    
       
         
