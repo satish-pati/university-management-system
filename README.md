@@ -1,4 +1,5 @@
 UNIVERSITY MANAGEMENT SYSTEM 
+
  This project deals with the various functioning in college management process. The main idea is to implement a proper process to system. In our existing system contains a many operations registration, student search, fees, attendance, exam records, performance of the student etc. All these activity takeout manually by administrator
  
 Technologies to be Used: Core Java,MySQL(java swing for ui design)
