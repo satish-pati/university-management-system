@@ -79,4 +79,3 @@ This system is intended to **simplify administrative tasks** and can be used by 
 - Akshat Kumar
 ---
 
-🔗 *For more details, refer to the documentation or contact the developers.*
